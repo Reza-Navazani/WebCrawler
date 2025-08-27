@@ -37,7 +37,7 @@ The crawler fetches web pages, parses content, and stores results in a **SQLite 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUserName/WebCrawler.git
+git clone https://github.com/Reza-Navazani/WebCrawler.git
 cd WebCrawler
 
 ---
